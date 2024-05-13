@@ -1,6 +1,6 @@
   - 👋 Hi, I’m @InnocentMushamba
 - 👀 I’m interested in ...Big Data Analytics and Software development
-- 🌱 I’m currently learning ...Web development
+- 🌱 I’m currently learning ...Web development & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...contact my assistants Charllotte  & Juliet
 
